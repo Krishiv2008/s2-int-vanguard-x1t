@@ -1,0 +1,11 @@
+,,,,,,,
+,,,,,,,
+,,Name,Modality ,File size,Size of the dataset ,License ,Link
+",,VisDrone Dataset ,Drone / ISR Imagery ,""2,26 GB"",288 video clips formed with 261.908 frames,https://www.gnu.org/licenses/agpl-3.0.html,VisDrone Dataset"
+",,Drone Object Detection ,Drone / ISR Imagery ,""168,7 MB"",4000+ Images,Legal Code - Attribution 4.0 International - Creative Commons,Drone Object Detection"
+",,dfc25_track1_trainval,Aerial / SAR Imagery ,""22,96 GB"",4000 areial RGB and SAR image pairs with pseudo 8-class land cover labels ,Deed - Attribution 4.0 International - Creative Commons,dfc25_track1_trainval"
+",,RadioML 2016.10A,RF signal / wavelength,600 MB,""Synthetic dataset generated with GNU Radio, consisting of 11 modulations "",Datasets - DeepSig,Datasets - DeepSig"
+",,RF Waveform ,RF signal / wavelength,""505,76 MB"",""Signal data for a period of one month, from May 5 2023, to June 11, 2023 collected via SDR hardware interfaced to DragonOS Focal "",Deed - CC0 1.0 Universal - Creative Commons,RF Signal Data | Kaggle"
+",,Oxford Radar RobotCar Dataset ,Automotive Radar ,""4,7 TB"",""Navtech CTS350-X Millimetre-Wave FMCW radar and Dual Velodyne HDL-32E LIDARs with optimised ground tryth radar adometry for 280 km of driving around Oxford, UK"",https://creativecommons.org/licenses/by-nc-sa/4.0/,The Oxford Radar RobotCar Dataset"
+",,The RadarScenes DataSet,Automotive Radar ,""17,31 GB"",4 million annotated detections ,https://creativecommons.org/licenses/by-nc-sa/4.0/,The RadarScenes data setata-set"
+",,UDayton24Automotive ,Automotive Radar ,""14,32 GB"",""The dataset was annotated by human for cars (2506), pedestrians (406). stop-signs (109) and traffic lights (784)"",Open Data Commons Open Database License (ODbL) v1.0 — Open Data Commons: legal tools for open data,https://www.kaggle.com/datasets/setarehkian/udayton24automotive-datasets/data"
