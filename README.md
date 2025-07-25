@@ -42,7 +42,45 @@ https://github.com/VisDrone/VisDrone-Dataset
 <br>
 <br>
 
-### 2. Drone Object Detection (YOLO)
+
+### 2. Military Vehicle Recognition Dataset
+The Military Vehicle Recognition dataset is a collection of labeled aerial images for computer vision tasks, created by the MilitaryVehicleRecognition team on Roboflow. It is designed for defense and security applications like automated surveillance and reconnaissance.
+
+#### Key Features:
+
+The dataset includes labeled aerial images of military objects such as air fighters, bombers, armored personnel carriers, tanks, and soldiers.
+
+#### Diversity:
+
+Data was captured by reconnaissance drones during the Russo-Ukrainian War, simulating real-world conditions with diverse altitudes, angles, and lighting across various scenarios.
+
+#### Annotations: 
+
+Contains manually annotated bounding boxes for object categories including air fighters, bombers, armored personnel carriers, tanks, and soldiers.
+
+#### Tasks: 
+
+The dataset is structured to support computer vision tasks such as object detection and classification, aiding in real-time decision-making for surveillance and situational awareness.
+
+#### Download Instructions
+
+The dataset is available directly from Roboflow Universe. For access to the images, trained models, and deployment options, use the project page.
+
+Roboflow Download:
+
+You can access and download the dataset from Roboflow at the following link: 
+
+https://universe.roboflow.com/militaryvehiclerecognition/military-vehicle-recognition
+
+Official Project Page:
+
+For detailed information, metrics, and browse options (including the specific query parameters), visit the main project page:
+
+https://universe.roboflow.com/militaryvehiclerecognition/military-vehicle-recognition
+<br>
+<br>
+
+### 3. Drone Object Detection (YOLO)
 This dataset was created for the "Amateur Drone Detection and Tracking" project in 2019. It is specifically designed for training object detection models based on the YOLO (You Only Look Once) architecture.
 
 
@@ -76,7 +114,7 @@ https://creativecommons.org/licenses/by/4.0/legalcode.en
 
 ###  Aerial/SAR imagery
 
-### 3. OpenEarthMap-SAR / IEEE GRSS 2025 Track 1
+### 4. OpenEarthMap-SAR / IEEE GRSS 2025 Track 1
 This large-scale dataset is designed for land cover classification using both synthetic aperture radar (SAR) and aerial imagery. It was developed for Track 1 of the IEEE GRSS Data Fusion Contest 2025 and supports high-resolution segmentation tasks. The dataset's goal is to advance all-weather land cover mapping by leveraging the unique capabilities of SAR to penetrate clouds and operate in any lighting conditions.
 
 #### Key Features:
@@ -115,7 +153,7 @@ The SAR imagery is licensed under CC BY 4.0 (© 2024 Umbra Lab, Inc.), while the
 
 ###  Automotive Radar
 
-### 4. Oxford Radar RobotCar Dataset
+### 5. Oxford Radar RobotCar Dataset
 
 The Oxford Radar RobotCar dataset is a radar-focused extension of the original Oxford RobotCar Dataset. It contains real-world driving data collected from a vehicle traversing a 280 km route through Oxford, UK, and is designed to accelerate research into autonomous vehicle technology.
 
@@ -140,7 +178,7 @@ The dataset is released under a Creative Commons Attribution-NonCommercial-Share
 <br>
 <br>
 
-### 5. The RadarScenes Dataset
+### 6. The RadarScenes Dataset
 
 The RadarScenes dataset contains recordings from four automotive radar sensors and a single front-facing camera, captured from a measurement vehicle. The data was recorded between 2016 and 2018 in Ulm, Germany, and is designed to support research in autonomous driving, particularly for object detection and scene understanding using raw radar data.
 
@@ -170,7 +208,7 @@ This dataset is available under the Creative Commons Attribution-NonCommercial-S
 <br>
 <br>
 
-### 6. UDayton24Automotive Dataset
+### 7. UDayton24Automotive Dataset
 
 The UDayton24Automotive dataset provides raw and demosaicked image pairs from automotive-grade cameras for object detection research. It was created to facilitate the development of algorithms that can work directly with raw sensor data and to study cross-camera performance between different color filter arrays (RGGB and RCCB).
 
@@ -205,7 +243,7 @@ The dataset is available under an open license: Database: Open Database, Content
 
 ###  RF Signal/ Waveform
 
-### 7. RF Signal Data
+### 8. RF Signal Data
 
 This dataset contains radio frequency (RF) signal data collected over approximately one month. The data was acquired using Software Defined Radio (SDR) hardware connected to DragonOS Focal, a Linux distribution for SDR enthusiasts.
 
@@ -231,7 +269,7 @@ The license for this dataset is not explicitly specified on the download page.
 <br>
 <br>
 
-### 8. RadioML 2016.10A Dataset
+### 9. RadioML 2016.10A Dataset
 The RadioML 2016.10A dataset is a collection of simulated radio signals. It includes a variety of common communication modulations, such as AM and FM, making it a foundational resource for machine learning in radio communications.
 
 #### Key Features:
