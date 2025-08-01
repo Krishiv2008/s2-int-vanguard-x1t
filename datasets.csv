@@ -1,6 +1,7 @@
 Name,Modality,File size,Size of the dataset,License,Link
 VisDrone Dataset,Drone / ISR Imagery,"2.26 GB","288 video clips formed with 261,908 frames",https://www.gnu.org/licenses/agpl-3.0.html,https://www.kaggle.com/datasets/kushagrapandya/visdrone-dataset
 Drone Object Detection,Drone / ISR Imagery,"168.7 MB","4000+ Images",Legal Code - Attribution 4.0 International - Creative Commons,https://www.kaggle.com/datasets/sshikamaru/drone-yolo-detection
+Millitary Vehicle Recognition Dataset, Aerial Imagery,"159 MB","12k Images",https://creativecommons.org/licenses/by/4.0/,https://universe.roboflow.com/militaryvehiclerecognition/military-vehicle-recognition
 dfc25_track1_trainval,Aerial / SAR Imagery,"22.96 GB","4000 aerial RGB and SAR image pairs with pseudo 8-class land cover labels",Deed - Attribution 4.0 International - Creative Commons,https://www.kaggle.com/datasets/forekid/dfc25-track1-trainval
 RadioML 2016.10A,RF signal / wavelength,"600 MB","Synthetic dataset generated with GNU Radio, consisting of 11 modulations",Datasets - DeepSig,https://www.deepsig.ai/datasets
 RF Waveform,RF signal / wavelength,"505.76 MB","Signal data for a period of one month, from May 5, 2023 to June 11, 2023 collected via SDR hardware interfaced to DragonOS Focal",Deed - CC0 1.0 Universal - Creative Commons, https://www.kaggle.com/datasets/suraj520/rf-signal-data
